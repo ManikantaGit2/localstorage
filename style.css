@@ -1,0 +1,16 @@
+.main {
+    height: 250px;
+    width: 400px;
+    background-color: bisque;
+    padding: 30px;
+    margin-top: 10px;
+}
+.button{
+    background-color: rgb(37, 37, 184);
+    height: 40px;
+    width: 70px;
+    border-color: bisque;
+    border-style: solid;
+    border-radius: 7px;
+    color: white;
+}
